@@ -4,3 +4,5 @@ This task involves creating a Battery management page with battery status monito
 ## TS-01: Authentication
 This task involves creating a login form and sign up form component with email and password fields, including validation and error handling.
 Status: Implemented Authentication
+
+sajib
